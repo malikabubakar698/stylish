@@ -1,0 +1,105 @@
+/* Theme font names, backed by files in assets/fonts. */
+
+@font-face {
+    font-family: raleway;
+    src: url('../fonts/Raleway-900-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ralewaylight;
+    src: url('../fonts/Raleway-300-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ralewaybold;
+    src: url('../fonts/Raleway-700-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ralewayregular;
+    src: url('../fonts/Raleway-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ralewayitalic;
+    src: url('../fonts/Raleway-400-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: playbolditalic;
+    src: url('../fonts/PlayfairDisplay-700-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: playitalic;
+    src: url('../fonts/PlayfairDisplay-400-italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswaldlight;
+    src: url('../fonts/Oswald-300-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswaldbold;
+    src: url('../fonts/Oswald-700-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswaldregular;
+    src: url('../fonts/Oswald-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswaldmedium;
+    src: url('../fonts/Oswald-500-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswaldbolditalic;
+    src: url('../fonts/Oswald-700-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: oswalditalic;
+    src: url('../fonts/Oswald-400-normal.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
